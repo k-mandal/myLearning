@@ -1,0 +1,9 @@
+1.Websocket procol
+2.quick protocol
+3.Web Rtc
+4.RESTfull: Representional State Transfer
+5.http verbs: get,post,patch,update,delete
+
+6.crud: create read update delete
+
+7.CORS
